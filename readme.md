@@ -94,7 +94,7 @@ mvn -v
    ```python
    # Put here the path to your Paper/Spigot server.jar
    # You can download Paper from https://papermc.io/downloads
-   SERVER_JAR = r"path\to\your\paper-1.20.1.jar"
+   SERVER_JAR = r"ServerJAR\exampleServerJAR.jar"
    ```
 
 ## Usage
