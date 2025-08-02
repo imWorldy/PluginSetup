@@ -1,4 +1,4 @@
-# Minecraft Plugin Generator
+# Plugin Setup - Rapid Spigot/Paper Plugin Environment
 
 A powerful tool to quickly set up a Minecraft Spigot/Paper plugin development environment with an integrated server for testing.
 
@@ -84,8 +84,8 @@ mvn -v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/imWorldy/MinecraftPluginGenerator.git
-   cd MinecraftPluginGenerator
+   git clone https://github.com/imWorldy/PluginSetup
+   cd PluginSetup
    ```
 
 ## Configuration
